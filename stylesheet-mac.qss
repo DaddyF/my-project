@@ -1,5 +1,6 @@
 QWidget {
 	font-family: "Times New Roman", serif;
+	font-family: "HGMaruGothicMPRO", serif;
 /*	font-size: 12pt;    */
 	font-weight: normal;
 	font-style: normal;
