@@ -11,7 +11,7 @@ on:
 
 jobs:
   build:
-    ONFIG+=sdk_no_version_check
+    CONFIG+=sdk_no_version_check
     strategy:
       matrix:
         qt_version: [5.12.6, 5.13.2, 5.14.0, 5.15.0]
